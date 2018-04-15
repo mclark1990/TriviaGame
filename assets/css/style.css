@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("../images/Cast3.jpg");
+    background-size: cover;
+    width:100%;
+    background-repeat: no-repeat;
+    height:100%;
+    
+}
+
+
+#main-content h1{
+    font-family: 'Black Han Sans', sans-serif;
+}
+#main-content{
+    margin:100px auto;
+    background: lightgray;
+    text-align:center;
+    height:500px;
+    opacity:.95;
+    overflow:auto;
+}
+
+.btn{
+   overflow:auto;
+}
